@@ -1,0 +1,7 @@
+pip
+autopep8
+# App
+flask[async]
+httpx
+genai
+google-generativeai
